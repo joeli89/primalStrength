@@ -45,19 +45,9 @@
 		"img" => "assets/images/programmes/programme2.png",
 		"forWho" => " for adults only",
 		"info" => "There will be 5 weight sessions a week, <b>(Monday, Tuesday, Thursday, Friday & Saturday)</b>.",
-		"more_info" => "There will be an additional circuit session at <b>7:45pm</b> on <b>Wenesdays.</b> ",
+		"more_info" => "There will be an additional circuit session at <b>7:45pm</b> on <b>Wednesdays.</b> ",
 		"classTimes" => array("10am - 11am", "11am - 12pm")
 	);
 
-		$programmes[105] = array(
-		"name" => "Hug from Ian",
-		"price" => 1,
-		"paypal" => "XL6RKE22SL5EG",
-		"img" => "assets/images/programmes/programme2.png",
-		"forWho" => " STRICTLY for adults only. 18+",
-		"info" => "Ian will be giving out some big hugs.</b>.",
-		"more_info" => "Keen? Sign up now.",
-		"classTimes" => array("10am - 11am", "11am - 12pm", "12am-1am")
-	);
 
 ?>
